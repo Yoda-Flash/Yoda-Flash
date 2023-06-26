@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 
 
 <!--
 **Yoda-Flash/Yoda-Flash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m interested in **web development and AI**
+- 🌱 I’m currently learning **Python frameworks**
+- 📫 Feel free to reach me on Discord! (yoda_flash)
