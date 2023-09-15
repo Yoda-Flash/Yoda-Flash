@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m interested in **web development and AI**
-- 🌱 I’m currently learning about **Machine Learning and Neural Networks**
+- 🌱 I’m currently learning about **Go**
 - 📫 Feel free to reach me on Discord! (yoda_flash)
