@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about **Go**
 - 📫 Feel free to reach me on Discord! (yoda_flash)
 
-[![Top Langs](https://github-readme-stats-yoda-flash.vercel.app/api/top-langs/?username=Yoda-Flash&theme=radical)]()
+[![Top Langs](https://github-readme-stats-rosy-delta-45.vercel.app/api/top-langs/?username=Yoda-Flash&theme=radical)]()
