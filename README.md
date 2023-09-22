@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m interested in **web development and AI**
 - 🌱 I’m currently learning about **Go**
 - 📫 Feel free to reach me on Discord! (yoda_flash)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoda-Flash&layout=compact)]()
