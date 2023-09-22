@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 - 🔭 I’m interested in **web development and AI**
 - 🌱 I’m currently learning about **Go**
 - 📫 Feel free to reach me on Discord! (yoda_flash)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoda-Flash)](https://github.com/anuraghazra/github-readme-stats)
