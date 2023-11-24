@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m interested in **web development and AI**
-- 🌱 I’m currently learning about **Go**
+- 🌱 I’m currently learning about **Rust**
 - 📫 Feel free to reach me on Discord! (yoda_flash)
 
 [![Top Langs](https://github-readme-stats-rosy-delta-45.vercel.app/api/top-langs/?username=Yoda-Flash&layout=donut&langs_count=8)]()
