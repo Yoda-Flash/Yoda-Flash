@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m interested in **web development and AI**
+- 🔭 I’m interested in **web development, AI, and Blockchain**
 - 🌱 I’m currently learning about **Rust**
 - 📫 Feel free to reach me on Discord! (yoda_flash)
 
