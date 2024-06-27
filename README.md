@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about **Rust**
 - 📫 Feel free to reach me on Discord! (yoda_flash)
 
-[![Top Langs](https://github-readme-stats-5idk-qn1rmw961-yodaflashs-projects.vercel.app/api/top-langs/?username=Yoda-Flash&layout=donut&langs_count=8)]()
+[![Top Langs](https://github-readme-stats-5idk-git-dependa-15b72d-yodaflashs-projects.vercel.app/api/top-langs/?username=Yoda-Flash&layout=donut&langs_count=8)]()
 
