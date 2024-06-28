@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-5idk-qn1rmw961-yodaflashs-projects.vercel.app/api/top-langs/?username=Yoda-Flash&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+![](/github-metrics.svg)
