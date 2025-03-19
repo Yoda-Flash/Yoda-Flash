@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m interested in **web development, AI, and Blockchain**
-- 🌱 I’m currently learning about **Rust**
+- 🔭 I’m interested in **Robotics, AI, Web3, and PCB Design**
+- 🌱 I’m currently learning about **different Neural Networks and AI models**
 - 📫 Feel free to reach me on Discord! (yoda_flash)
 
 [![Top Langs](https://github-readme-stats-yodaflashs-projects.vercel.app//api/top-langs/?username=Yoda-Flash&layout=donut&langs_count=8)]()
